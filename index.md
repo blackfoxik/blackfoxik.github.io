@@ -1,161 +1,178 @@
-# Anton Lisitsyn
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anton Lisitsyn — Senior iOS Engineer</title>
 
-![Photo](assets/photo.png)
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial;
+      margin: 0;
+      background: #0d1117;
+      color: #e6edf3;
+      line-height: 1.6;
+    }
 
-**Senior iOS Engineer | Swift • SwiftUI • UIKit • Architecture • CI/CD**
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
 
-📍 Lipetsk, Russia (Remote)  
-📞 [+7 (920) 243-27-65](tel:+79202432765)  
-✉️ [Lisitsyn.anton.a@gmail.com](mailto:Lisitsyn.anton.a@gmail.com)  
-🇬🇧 English: B2 Upper Intermediate
+    h1, h2, h3 {
+      color: #58a6ff;
+    }
 
----
+    .card {
+      background: #161b22;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 12px;
+    }
 
-## Professional Summary
+    .tag {
+      display: inline-block;
+      background: #238636;
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin: 4px;
+      font-size: 12px;
+    }
 
-Senior iOS Engineer with 7+ years of commercial iOS development experience and 17+ years in software engineering. Specialized in Swift, UIKit, SwiftUI, Objective-C, mobile architecture, and CI/CD automation.
+    .contact {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #c9d1d9;
+    }
 
-Experienced in designing data-driven UI platforms, experimentation frameworks, feature flag systems, and scalable mobile applications from concept to production.
+    a { color: #58a6ff; text-decoration: none; }
 
-Strong background in Clean Architecture, Dependency Injection, Protocol-Oriented Programming, and cross-functional collaboration across product, backend, design, and QA teams. Experienced in owning delivery pipelines, release processes, and technical decision-making for production mobile applications.
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
 
----
+    @media(min-width: 800px) {
+      .grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
 
-## Technical Skills
+<body>
 
-### Languages
-Swift, Objective-C, Dart, Ruby, C#
+<div class="container">
 
-### iOS
-UIKit, SwiftUI, Core Data, AVFoundation, WebRTC, WebSockets, Push Notifications, Deep Linking
+  <h1>Anton Lisitsyn</h1>
+  <p><strong>Senior iOS Engineer</strong> | Swift • SwiftUI • UIKit • Architecture • CI/CD</p>
 
-### Architecture
-Clean Architecture, MVVM, VIPER, Dependency Injection, Protocol-Oriented Programming, Design Patterns, Modular Architecture
+  <div class="contact">
+    📍 Remote (Russia) <br/>
+    📞 +7 (920) 243-27-65 <br/>
+    ✉️ Lisitsyn.anton.a@gmail.com <br/>
+    🇬🇧 English: B2 Upper-Intermediate
+  </div>
 
-### Concurrency & Reactive
-Swift Concurrency, Combine, RxSwift, GCD
+  <div class="card">
+    <h2>Professional Summary</h2>
+    <p>
+      Senior iOS Engineer with 7+ years of commercial experience (17+ total in software engineering).
+      Specialized in Swift, UIKit, SwiftUI, architecture design, CI/CD pipelines, and scalable mobile systems.
+      Experienced in Clean Architecture, DI, Protocol-Oriented Programming, feature flag systems, and A/B testing platforms.
+    </p>
+  </div>
 
-### Testing
-XCTest, Unit Testing
+  <div class="card">
+    <h2>Technical Skills</h2>
 
-### Networking & Data
-REST APIs, WebSockets, Core Data
+    <div class="grid">
+      <div>
+        <h3>Languages</h3>
+        <span class="tag">Swift</span>
+        <span class="tag">Objective-C</span>
+        <span class="tag">Dart</span>
+        <span class="tag">C#</span>
+        <span class="tag">Ruby</span>
+      </div>
 
-### CI/CD & DevOps
-Fastlane, GitLab CI, GitLab Runner, Xcode Cloud, XcodeGen
+      <div>
+        <h3>iOS</h3>
+        <span class="tag">SwiftUI</span>
+        <span class="tag">UIKit</span>
+        <span class="tag">Core Data</span>
+        <span class="tag">WebRTC</span>
+        <span class="tag">WebSockets</span>
+        <span class="tag">Push Notifications</span>
+      </div>
 
-### Analytics & Product
-AppsFlyer, Firebase, GrowthBook, A/B Testing
+      <div>
+        <h3>Architecture</h3>
+        <span class="tag">Clean Architecture</span>
+        <span class="tag">MVVM</span>
+        <span class="tag">VIPER</span>
+        <span class="tag">DI</span>
+      </div>
 
-### Tools
-Git, CocoaPods, Carthage, Swift Package Manager, Figma, Cursor, ChatGPT
+      <div>
+        <h3>CI/CD</h3>
+        <span class="tag">Fastlane</span>
+        <span class="tag">GitLab CI</span>
+        <span class="tag">Xcode Cloud</span>
+      </div>
+    </div>
+  </div>
 
----
+  <div class="card">
+    <h2>Experience</h2>
 
-## Professional Experience
+    <h3>Viamobi LLC — Senior iOS Engineer</h3>
+    <p>2019 – Present</p>
+    <ul>
+      <li>Built data-driven UI architecture with remote configuration & feature flags</li>
+      <li>Introduced Clean Architecture, DI, modular system design</li>
+      <li>Owned CI/CD pipelines (GitLab CI, Fastlane, Xcode Cloud)</li>
+      <li>Implemented A/B testing system using GrowthBook</li>
+      <li>Developed UIKit + SwiftUI hybrid applications</li>
+    </ul>
 
-### Viamobi LLC — Senior iOS Engineer  
-**August 2019 – Present**
+    <h3>EcoDomus LLC — iOS Engineer</h3>
+    <p>2018 – 2019</p>
+    <ul>
+      <li>Worked on high-scale grocery delivery app (Perekrestok)</li>
+      <li>Developed BIM enterprise mobile platform (Unity + Obj-C)</li>
+      <li>Built loyalty & geolocation-based consumer app</li>
+    </ul>
 
-- Designed and implemented a data-driven UI architecture enabling dynamic in-app product experiences and remote feature configuration, significantly increasing flexibility and reducing release dependencies for product teams.
-- Led modernization of legacy modules while introducing scalable architectural patterns based on Clean Architecture, Dependency Injection, and Protocol-Oriented Programming.
-- Implemented feature flagging and experimentation infrastructure using GrowthBook, ensuring all new functionality could be safely rolled out, tested, and controlled remotely.
-- Owned critical application flows including push notifications, deep links, WebView integrations, analytics instrumentation, and user acquisition tracking.
-- Developed UI using UIKit (XIB, Auto Layout, programmatic UI), SwiftUI, UICollectionViewCompositionalLayout, and NSDiffableDataSourceSnapshot.
-- Built Flutter-based experimentation screens enabling rapid A/B/C testing and validation of product hypotheses.
-- Introduced Swift Structured Concurrency for asynchronous workflows, improving code maintainability and reliability.
-- Contributed to application quality through unit testing and continuous refactoring of critical components.
-- Owned and maintained iOS CI/CD infrastructure including GitLab CI, GitLab Runner, Fastlane, Xcode Cloud, and Mac Mini build environments.
-- Acted as a key technical stakeholder, coordinating implementation details across product, backend, design, and QA teams.
-- Leveraged AI-assisted development tools (ChatGPT and Cursor) to accelerate implementation, refactoring, debugging, and documentation workflows.
+    <h3>It's Time LLC — iOS Engineer</h3>
+    <p>2017</p>
+    <ul>
+      <li>Developed real-time telepresence system</li>
+      <li>Implemented WebRTC + WebSockets robot control system</li>
+    </ul>
+  </div>
 
-**Applications:**
-- RosDolgi  
-- Government-related financial services products  
+  <div class="card">
+    <h2>Education</h2>
+    <p><strong>Voronezh State Technical University</strong> — Information Technologies Engineer (2008)</p>
+  </div>
 
----
+  <div class="card">
+    <h2>Languages</h2>
+    <p>Russian (Native), English (B2 Upper-Intermediate)</p>
+  </div>
 
-### EcoDomus LLC — iOS Engineer  
-**January 2018 – August 2019**
+  <div class="card">
+    <h2>Highlights</h2>
+    <ul>
+      <li>17+ years software engineering experience</li>
+      <li>Expert in scalable iOS architecture</li>
+      <li>Strong CI/CD & DevOps ownership</li>
+      <li>Production systems with millions of users</li>
+    </ul>
+  </div>
 
-#### Perekrestok Delivery App (X5 Retail Group)
-- Owned key areas of a large-scale grocery delivery application, including architectural decisions, technology selection, and system evolution.
-- Delivered and maintained core functionality in a high-traffic production environment.
-- Contributed to engineering standards and codebase modernization.
+</div>
 
-#### EcoDomus Mobile
-- Developed enterprise BIM-based mobile platform (Unity + Objective-C).
-- Expanded support from iPad-only to universal iPhone support.
-- Implemented inspection, maintenance, document management, COBie workflows.
-
-#### Confectionery Customer Application (Kazakhstan)
-- Delivered full lifecycle mobile application.
-- Implemented loyalty system (QR bonuses, geolocation, promotions, chat).
-
----
-
-### It's Time LLC — iOS Engineer  
-**August 2017 – December 2017**
-
-- Built iOS telepresence platform from concept to Enterprise release.
-- Designed real-time robot control using WebSockets.
-- Integrated WebRTC audio/video communication.
-- Owned architecture and latency-sensitive systems.
-
-**Tech:** Swift, UIKit, WebRTC, WebSockets, MVVM
-
----
-
-### OS Agent — Ruby on Rails Developer  
-**August 2013 – January 2017**
-
-- Built e-commerce systems, CMS platforms, and automation tools.
-- Implemented loyalty systems and business workflows.
-- Delivered production systems for multiple clients.
-
----
-
-### Cherkizovo Group — .NET Developer  
-**June 2012 – August 2013**
-
-- Developed logistics and document management systems.
-- Built Windows-based enterprise applications.
-- Implemented automation and reporting tools.
-
----
-
-### Lipetsk Passenger Transport — Software Engineer  
-**October 2009 – March 2012**
-
-- Built internal systems for fuel tracking and operational reporting.
-- Automated business processes for transport operations.
-
----
-
-### Moscow State University of Economics — Lecturer / Researcher  
-**September 2008 – October 2009**
-
-- Taught corporate information systems design.
-- Developed university internal software systems.
-
----
-
-## Education
-
-### Voronezh State Technical University  
-**Engineer Degree in Information Technologies — 2008**
-
----
-
-## Professional Development
-
-- Stanford CS193P — iOS Development with Swift  
-- Stanford CS106A/B — Programming Foundations  
-- English communication training (ongoing)
-
----
-
-## Languages
-
-- Russian — Native  
-- English — B2 Upper Intermediate
+</body>
+</html>
