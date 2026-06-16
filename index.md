@@ -1,26 +1,21 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-<div class="avatar-wrapper">
-  <img class="avatar" src="assets/photo.png" />
-</div>
-
-<p align="center">
-  <b>Senior iOS Engineer</b><br>
-  Swift • SwiftUI • UIKit • Architecture • CI/CD
-</p>
-
-<div class="contact">
-  <div>📍 Lipetsk, Russia (Remote)</div>
-
-  <div>
-    📞 <a href="tel:+79202432765">+7 (920) 243-27-65</a>
+<div class="hero">
+  <div class="avatar-wrapper">
+    <img class="avatar" src="assets/photo.png" />
   </div>
 
-  <div>
-    ✉️ <a href="mailto:Lisitsyn.anton.a@gmail.com">Lisitsyn.anton.a@gmail.com</a>
+  <div class="headline">
+    <b>Senior iOS Engineer</b><br>
+    Swift • SwiftUI • UIKit • Architecture • CI/CD
   </div>
 
-  <div>🇬🇧 English: B2 Upper Intermediate</div>
+  <div class="contact">
+    <div>📍 Lipetsk, Russia (Remote)</div>
+    <div>📞 <a href="tel:+79202432765">+7 (920) 243-27-65</a></div>
+    <div>✉️ <a href="mailto:Lisitsyn.anton.a@gmail.com">Lisitsyn.anton.a@gmail.com</a></div>
+    <div>🇬🇧 English: B2 Upper Intermediate</div>
+  </div>
 </div>
 
 <p align="center">
