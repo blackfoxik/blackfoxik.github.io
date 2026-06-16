@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-<div class="avatar">
-  <img src="assets/photo.png" />
+<div class="avatar-wrapper">
+  <img class="avatar" src="assets/photo.png" />
 </div>
 
 <p align="center">
