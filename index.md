@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="assets/style.css">
-# Anton Lisitsyn
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
 <p align="center">
   <img src="assets/photo.png" width="160" style="border-radius: 50%;" />
