@@ -1,6 +1,13 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
 <div class="hero">
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
   <div class="avatar-wrapper">
     <img class="avatar" src="assets/photo.png" />
   </div>
@@ -228,3 +235,5 @@ Taught corporate information systems design and participated in development of s
 
 - Russian — Native
 - English — B2 Upper Intermediate
+</body>
+</html>
