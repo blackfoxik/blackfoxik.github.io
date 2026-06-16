@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
 <p align="center">
-  <img src="assets/photo.png" width="160" style="border-radius: 50%;" />
+  <img src="assets/photo.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <p align="center">
