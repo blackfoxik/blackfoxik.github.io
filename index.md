@@ -9,12 +9,12 @@
   Swift • SwiftUI • UIKit • Architecture • CI/CD
 </p>
 
-<p align="center">
-📍 Lipetsk, Russia (Remote)<br>  
-📞 +7 (920) 243-27-65<br>  
-✉️ Lisitsyn.anton.a@gmail.com<br>  
-🇬🇧 English: B2 Upper Intermediate
-</p>
+<div class="contact">
+  <div>📍 Lipetsk, Russia (Remote)</div>
+  <div>📞 +7 (920) 243-27-65</div>
+  <div>✉️ Lisitsyn.anton.a@gmail.com</div>
+  <div>🇬🇧 English: B2 Upper Intermediate</div>
+</div>
 
 <p align="center">
   <a href="https://github.com/blackfoxik">GitHub</a>

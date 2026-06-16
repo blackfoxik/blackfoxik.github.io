@@ -56,3 +56,13 @@ a {
   object-fit: cover;
   display: block;
 }
+
+.contact {
+  text-align: center;
+  line-height: 1.8;
+  margin-top: 10px;
+}
+
+.contact div {
+  margin: 2px 0;
+}
