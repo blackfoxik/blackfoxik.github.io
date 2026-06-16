@@ -1,16 +1,25 @@
+<link rel="stylesheet" href="assets/style.css">
 # Anton Lisitsyn
 
-![Photo](assets/photo.png))
+<p align="center">
+  <img src="assets/photo.png" width="160" style="border-radius: 50%;" />
+</p>
 
-**Senior iOS Engineer | Swift • SwiftUI • UIKit • Architecture • CI/CD**
+<p align="center">
+  <b>Senior iOS Engineer</b><br>
+  Swift • SwiftUI • UIKit • Architecture • CI/CD
+</p>
 
-📍 Lipetsk, Russia (Remote)
-
-📞 +7 (920) 243-27-65
-
-✉ Lisitsyn.anton.a@gmail.com
-
+<p align="center">
+📍 Lipetsk, Russia (Remote)  
+📞 +7 (920) 243-27-65  
+✉️ Lisitsyn.anton.a@gmail.com  
 🇬🇧 English: B2 Upper Intermediate
+</p>
+
+<p align="center">
+  <a href="https://github.com/blackfoxik">GitHub</a>
+</p>
 
 ---
 
