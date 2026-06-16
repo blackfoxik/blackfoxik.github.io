@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-<p align="center">
-  <img src="assets/photo.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
-</p>
+<div class="avatar">
+  <img src="assets/photo.png" />
+</div>
 
 <p align="center">
   <b>Senior iOS Engineer</b><br>
