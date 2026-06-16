@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-📍 Lipetsk, Russia (Remote)  
-📞 +7 (920) 243-27-65  
-✉️ Lisitsyn.anton.a@gmail.com  
+📍 Lipetsk, Russia (Remote)<br>  
+📞 +7 (920) 243-27-65<br>  
+✉️ Lisitsyn.anton.a@gmail.com<br>  
 🇬🇧 English: B2 Upper Intermediate
 </p>
 
